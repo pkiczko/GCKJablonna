@@ -1,6 +1,7 @@
 #pętla powtarzająca czynność określoną ilość razy
-for i in range(10):
+for i in range(100000000000000):
     print(i)
+
 
 def kop_diamenty(ilosc):
     for i in range(ilosc):
